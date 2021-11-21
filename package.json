@@ -9,7 +9,7 @@
   "type": "module",
   "devDependencies": {
     "@types/node": "^16.11.6",
-    "ava": "4.0.0-rc.1",
+    "ava": "https://github.com/avajs/ava.git#main",
     "ts-node": "^10.2.1",
     "tslib": "^2.3.1",
     "typescript": "^4.4.3"
